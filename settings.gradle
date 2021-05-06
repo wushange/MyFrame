@@ -1,0 +1,3 @@
+rootProject.name = "MyFrame"
+include ':app'
+include ':mylibrary'
